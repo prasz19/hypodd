@@ -1,4 +1,4 @@
-
+print("script by prasz19")
 
 fileinput = input("input your file here:",   )
 
